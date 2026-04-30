@@ -28,9 +28,10 @@ customer-churn-prediction/
 
 ---
 
-## Датасет
+Датасет: **Telecom Customer Churn** (соревнование Advanced DLS Spring 2021)  
+[Скачать с Kaggle](https://www.kaggle.com/competitions/advanced-dls-spring-2021/data?select=train.csv)
 
-Датасет содержит две выборки: обучающую (`train.csv`) и тестовую (`test.csv`).
+После скачивания поместите файлы `train.csv` и `test.csv` в корень проекта.
 
 Основные поля:
 
